@@ -1,10 +1,12 @@
-# Strava API
+# Lunch Run: Working With the Strava API
 
 ## Background
 
-Here is a "quick" way to fetch your activities by interacting with Strava API from localhost.
+A "quick" way to fetch your activities by interacting with Strava API from localhost.
 
-## Fetching Activities
+[Swagger UI Playground](https://developers.strava.com/playground/)
+
+## Fetching Activities 🚲 
 
 1. Visit `https://www.strava.com/settings/api` and create an application.
 
