@@ -1,4 +1,4 @@
-# Lunch Run: Working With the Strava API
+# Lunch Run: Accessing the Strava API From Localhost
 
 ## Background
 
