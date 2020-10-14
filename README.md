@@ -30,4 +30,4 @@ https://www.strava.com/api/v3/athlete/activities?access_token=ACCESS_TOKEN
 
 See reference.js for the next steps to regenerate a valid (non-expired) access token.
 
-Feel free to spin up Lunch Run up on a localhost and get a taste for adding the information into the front-end.
+Spin up Lunch Run up on a localhost and get a taste for adding the information into the front-end.
